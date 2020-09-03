@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1594191139 source:e:\codeblock_work\watchstate\hsm.c
+	"hsm.h"
+
+1594192138 e:\codeblock_work\watchstate\hsm.h
+	"assert.h"
+
+1598602335 source:e:\codeblock_work\watchstate\watch.c
+	<assert.h>
+	<stdio.h>
+	"hsm.h"
+	"watch.h"
+
+1598602322 e:\codeblock_work\watchstate\watch.h
+
+1599122387 source:e:\codeblock_work\watchstate\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"car.h"
+	"hsm.h"
+
+1599122859 source:e:\codeblock_work\watchstate\car.c
+	<assert.h>
+	<stdio.h>
+	"hsm.h"
+	"car.h"
+
+1599112830 e:\codeblock_work\watchstate\car.h
+	"hsm.h"
+
